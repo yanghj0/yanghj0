@@ -1,6 +1,4 @@
 <div align="center">
-
-  <div style="display: flex; justify-content: space-between; align-items: center;">
   
   <div align = left>
     
