@@ -1,4 +1,8 @@
-<div>
+<div align="center">
+
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+  
+  <div align = left>
     
   ## 👋 yanghj0<br>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyanghj0&count_bg=%2354C242&title_bg=%2354C242&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -8,6 +12,13 @@
   🌱 I’m currently learning AI<br>
   📫 How to reach me [lisayang1@naver.com](mailto:lisayang1@naver.com)
 
+  <a href="https://solved.ac/lisayang1"><img align="right" src="http://mazandi.herokuapp.com/api?handle=lisayang1&theme=dark"/></a>
+    
+  </div>
+
+  <div align = right>
+  <a href="https://solved.ac/lisayang1"><img align="left" src="http://mazandi.herokuapp.com/api?handle=lisayang1&theme=dark"/></a>
+  
   <p>🎨 SNS & Portfolio 🎨</p>
   <a href="https://velog.io/@ofohj">
     <img src="https://img.shields.io/badge/velog-3DDC84?style=for-the-badge&logo=Velog&logoColor=white"/>
@@ -24,5 +35,9 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=Google%20Colab&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white" />
+  
+  </div>
+  
+  </div>
 
 </div>
