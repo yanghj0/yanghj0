@@ -1,10 +1,10 @@
 <div align="center">
 
-  <div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="display: flex;">
   
   <div align = left>
     
-  ## 👋 yanghj0<br>
+  ## 👋 yanghj0
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyanghj0&count_bg=%2354C242&title_bg=%2354C242&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lisayang1)](https://solved.ac/lisayang1)
   
