@@ -1,7 +1,9 @@
 <div align="center">
+
+  <div style="display: flex; justify-content: space-between; align-items: center;">
   
   <div align = left>
-    
+  
   ## 👋 yanghj0<br>
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyanghj0&count_bg=%2354C242&title_bg=%2354C242&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lisayang1)](https://solved.ac/lisayang1)
@@ -9,13 +11,10 @@
   👀 I’m interested in GenAI & Data<br>
   🌱 I’m currently learning AI<br>
   📫 How to reach me [lisayang1@naver.com](mailto:lisayang1@naver.com)
-
-  <a href="https://solved.ac/lisayang1"><img align="right" src="http://mazandi.herokuapp.com/api?handle=lisayang1&theme=dark"/></a>
     
   </div>
 
   <div align = right>
-  <a href="https://solved.ac/lisayang1"><img align="left" src="http://mazandi.herokuapp.com/api?handle=lisayang1&theme=dark"/></a>
   
   <p>🎨 SNS & Portfolio 🎨</p>
   <a href="https://velog.io/@ofohj">
@@ -39,3 +38,4 @@
   </div>
 
 </div>
+
