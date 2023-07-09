@@ -20,7 +20,7 @@
   <a href="https://velog.io/@ofohj">
     <img src="https://img.shields.io/badge/velog-3DDC84?style=for-the-badge&logo=Velog&logoColor=white"/>
   </a>
-  <a href="https://suave-lilac-075.notion.site/Dalchive-ec0bc59746804968a085c2cf46151c80">
+  <a href=" ">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
